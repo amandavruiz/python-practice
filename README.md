@@ -24,3 +24,12 @@ Display a simple welcome message to start the 21-day Python challenge
 1. Open your terminal
 2. Navigate to the project folder
 3. Run the script: python hello_world.py
+
+---
+# 2nd day - Even and odd number identifier
+## Topics learned
+- How to use the input() function to get user input
+- How to convert strings to integers using int()
+- How to apply the modulo operator (%) to check if a number is even or odd
+- How to use conditional statements (if, else) for decision-making
+- How to handle errors using try/except and the ValueError except
