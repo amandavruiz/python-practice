@@ -26,6 +26,7 @@ Display a simple welcome message to start the 21-day Python challenge
 3. Run the script: python hello_world.py
 
 ---
+
 # 2nd day - Even and odd number identifier
 ## Topics learned
 - How to use the input() function to get user input
@@ -33,3 +34,12 @@ Display a simple welcome message to start the 21-day Python challenge
 - How to apply the modulo operator (%) to check if a number is even or odd
 - How to use conditional statements (if, else) for decision-making
 - How to handle errors using try/except and the ValueError except
+
+---
+
+# 3rd day - Calculator
+## Topics learned
+- How to perform basic mathematical operations using +, -, * and /
+- How to replace characters in strings using the replace() method (comma to dot)
+- How to convert strings to floats using float()
+- How to prevent division by zero using conditionals
